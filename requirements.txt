@@ -3,5 +3,3 @@ scipy
 tqdm
 lmdb
 pyyaml
-tb-nightly
-yapf
